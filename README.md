@@ -3,7 +3,7 @@
 ## What is the company?
 
 # Rossmann.
-What is its business model?
+## What is its business model?
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Its products range includes up to 21,700 items and can vary depending on the size of the shop and the location. In addition to drugstore goods with a focus on skin, hair, body, baby and health, Rossmann also offers promotional items ("World of Ideas"), pet food, a photo service and a wide range of natural foods and wines. What is the business problem the company is facing?
 
