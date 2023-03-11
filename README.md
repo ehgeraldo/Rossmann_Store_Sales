@@ -1,8 +1,8 @@
 # Business Understanding
 
-What is the company?
+## What is the company?
 
-Rossmann.
+# Rossmann.
 What is its business model?
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Its products range includes up to 21,700 items and can vary depending on the size of the shop and the location. In addition to drugstore goods with a focus on skin, hair, body, baby and health, Rossmann also offers promotional items ("World of Ideas"), pet food, a photo service and a wide range of natural foods and wines. What is the business problem the company is facing?
@@ -35,15 +35,15 @@ https://www.kaggle.com/c/rossmann-store-sales https://en.wikipedia.org/wiki/Ross
 "Nachhaltig zum Erfolg | Markant Magazin". www.markant-magazin.com. Retrieved 2021-06-14.
 
 "ROSSMANN-Nachhaltigkeitsbericht". ROSSMANN-Nachhaltigkeitsbericht. Retrieved 2021-06-14.
-* Step 01. Data Extraction:
+# * Step 01. Data Extraction:
 
 For the available data, check files and data fields description. Then load data from CSV files and merge different tables.
-* Step 02. Data Description:
+# * Step 02. Data Description:
 
 Rename columns and check the number of rows in the table (does it requires big data tools?). Convert data types for some columns and fill out NA (not-available) values. Then use statistics metrics to identify data outside the scope of business.
-* Step 03. Feature Engineering:
+# * Step 03. Feature Engineering:
 
 Create a hypothesis list to check on the fifth step (EDA). Then apply data transformations on the required columns.
-* Step 04. Data Filtering:
+# * Step 04. Data Filtering:
 
 Filter rows and select columns that do not contain information for modelling or do not match the scope of the business, such as predict sales for a closed store.
