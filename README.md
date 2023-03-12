@@ -15,12 +15,14 @@ Hypothesis
 
 In order to make predictions for the next six weeks, Rossmann company has to provide data about its stores for this time interval. Such data, for each store, must include: store model, store assortment level and if the given store will be on continuous promotion.
 
+## References:
+
+https://www.kaggle.com/c/rossmann-store-sales https://en.wikipedia.org/wiki/Rossmann_(company)
+
 # Solution strategy method
 ![image](https://user-images.githubusercontent.com/58346288/224571421-ee98ac7f-5ce8-4300-95d0-a60b8bd8b995.png)
 
-References:
 
-https://www.kaggle.com/c/rossmann-store-sales https://en.wikipedia.org/wiki/Rossmann_(company)
 
 "Europe: top personal care retailers' store numbers 2019". Statista. Retrieved 2020-12-07.
 
