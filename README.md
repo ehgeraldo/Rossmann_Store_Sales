@@ -55,3 +55,7 @@ Create a hypothesis list to check on the fifth step (EDA). Then apply data trans
 #  Step 04. Data Filtering:
 
 Filter rows and select columns that do not contain information for modelling or do not match the scope of the business, such as predict sales for a closed store.
+
+#  Step 05. EDA Exploration Data Analysis:
+
+Analysis of each variable separately and, and the relationship with the response variable. And validation of hypotheses created at the beginning of the project to gain insights.
