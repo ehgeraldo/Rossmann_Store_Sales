@@ -19,11 +19,6 @@ In order to make predictions for the next six weeks, Rossmann company has to pro
 
 https://www.kaggle.com/c/rossmann-store-sales https://en.wikipedia.org/wiki/Rossmann_(company)
 
-# Solution strategy method
-![image](https://user-images.githubusercontent.com/58346288/224571421-ee98ac7f-5ce8-4300-95d0-a60b8bd8b995.png)
-
-
-
 "Europe: top personal care retailers' store numbers 2019". Statista. Retrieved 2020-12-07.
 
 "Personal Care Retailers in Europe". www.retail-index.com. Retrieved 2020-12-07.
@@ -41,6 +36,13 @@ https://www.kaggle.com/c/rossmann-store-sales https://en.wikipedia.org/wiki/Ross
 "Nachhaltig zum Erfolg | Markant Magazin". www.markant-magazin.com. Retrieved 2021-06-14.
 
 "ROSSMANN-Nachhaltigkeitsbericht". ROSSMANN-Nachhaltigkeitsbericht. Retrieved 2021-06-14.
+
+# Solution strategy method
+![image](https://user-images.githubusercontent.com/58346288/224571421-ee98ac7f-5ce8-4300-95d0-a60b8bd8b995.png)
+
+
+
+
 #  Step 01. Data Extraction:
 
 For the available data, check files and data fields description. Then load data from CSV files and merge different tables.
