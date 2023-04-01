@@ -70,4 +70,4 @@ Split data into train and validation. Then, prepare data so that the Machine Lea
 Using Boruta algorithms to select the most signiﬁcant attributes for training the model.
 
 #  Step 08. Machine Learning Modelling:
-Test different Machine Learning models and select the one with the best performance in prediction sales according to the selected attributes.
+Test different Machine Learning models (Linear and Non-Linear) and select the one with the best performance in prediction sales according to the selected attributes.
