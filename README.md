@@ -65,3 +65,9 @@ Analysis of each variable separately and, and the relationship with the response
 #  Step 06. Data Preparation:
 
 Split data into train and validation. Then, prepare data so that the Machine Learning models can more easily learn and perform more accurately.
+
+#  Step 07. Feature Selection:
+Using Boruta algorithms to select the most signiﬁcant attributes for training the model.
+
+#  Step 08. Machine Learning Modelling:
+Test different Machine Learning models and select the one with the best performance in prediction sales according to the selected attributes.
