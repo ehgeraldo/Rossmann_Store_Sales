@@ -1,3 +1,6 @@
+![104977231-ca344600-59dd-11eb-94c4-26f431bc2802](https://github.com/ehgeraldo/Rossmann_Store_Sales/assets/58346288/27599405-61d6-425c-bd55-d2dfc960b20c)
+
+
 # Business Understanding
 
 ## What is the company?
