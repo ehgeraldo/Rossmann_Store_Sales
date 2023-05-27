@@ -46,34 +46,34 @@ https://www.kaggle.com/c/rossmann-store-sales https://en.wikipedia.org/wiki/Ross
 
 
 
-#  Step 01. Data Extraction:
+##  Step 01. Data Extraction:
 For the available data, check files and data fields description process. Then load data from CSV files and merge different tables.
 
-#  Step 02. Data Description:
+##  Step 02. Data Description:
 Rename columns and check the number of rows in the table. Convert data types for some columns and fill out NA (not-available) values. Then use statistics metrics to identify data outside the scope of business.
 
-#  Step 03. Feature Engineering:
+##  Step 03. Feature Engineering:
 Create a hypothesis list to check on the fifth step (EDA). Then apply data transformations on the required columns.
 
-#  Step 04. Data Filtering:
+##  Step 04. Data Filtering:
 Filter rows and select columns that make sense to modeling or do not match the scope of the business, such as predict sales for a closed store.
 
-#  Step 05. EDA Exploration Data Analysis:
+## Step 05. EDA Exploration Data Analysis:
 Analysis of each variable separately and, and the relationship with the response variable. And validation of hypotheses created at the beginning of the project to gain insights.
 
-#  Step 06. Data Preparation:
+##  Step 06. Data Preparation:
 Split data into train and validation. Then, prepare data so that the Machine Learning models can more easily learn and perform more accurately.
 
-#  Step 07. Feature Selection:
+##  Step 07. Feature Selection:
 Using Boruta algorithms to select the most signiﬁcant attributes for training the model.
 
-#  Step 08. Machine Learning Modelling:
+##  Step 08. Machine Learning Modelling:
 Test different Machine Learning models (Linear and Non-Linear) and select the one with the best performance in prediction sales according to the selected attributes.
 
-# Step 09. Hyperparameter Fine Tuning
+##  Step 09. Hyperparameter Fine Tuning
 Try to figure out the best values parameters selected on Machine Learning.
 
-# Step 10. Deployment
+## Step 10. Deployment
 Creating APIs to make sales prediction from each store on internet requests.
 
-TOP Insights
+# TOP 03 INSIGHTS
