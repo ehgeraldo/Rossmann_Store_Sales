@@ -75,3 +75,5 @@ Try to figure out the best values parameters selected on Machine Learning.
 
 # Step 10. Deployment
 Creating APIs to make sales prediction from each store on internet requests.
+
+TOP Insights
