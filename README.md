@@ -77,11 +77,14 @@ Try to figure out the best values parameters selected on Machine Learning.
 Creating APIs to make sales prediction from each store on internet requests.
 
 # TOP 03 INSIGHTS
-## H1. The kind of assortment store influence differently sales
+## H1. The kind of assortment store influence differently sales ?
 #### H1 checked: Extra assortment has higher sales than other standard stores.
 ![Captura de tela de 2023-05-27 15-56-55](https://github.com/ehgeraldo/Rossmann_Store_Sales/assets/58346288/c6f11150-ef2f-4532-966b-4991a56b27aa)
 #### H1 checked: basic and extended looks like similar and extra assortment are totally back to other class.
 ![Captura de tela de 2023-05-27 15-59-10](https://github.com/ehgeraldo/Rossmann_Store_Sales/assets/58346288/61e3a1af-0190-4766-bbda-2df495997e92)
+
+## H2. Stores with close competitors should sell less ? 
+group of stores with close located sales more than farway
 
 
 
