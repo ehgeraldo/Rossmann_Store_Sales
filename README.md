@@ -87,7 +87,7 @@ Creating APIs to make sales prediction from each store on internet requests.
 #### H2 checked: Not! Group of stores with close located sales more than farway,competition has some influences.
 ![Captura de tela de 2023-05-27 16-13-29](https://github.com/ehgeraldo/Rossmann_Store_Sales/assets/58346288/425be8a8-a8f7-48b6-965a-1dde3f2951bd)
 
-## H3. Drug Stores sales higher on the weekends.
+## H3. Drug Stores sales higher on the weekends?
 #### H3. Not! At the beginging of the week sales revenue is higher than weekend.
 ![Captura de tela de 2023-05-27 16-19-57](https://github.com/ehgeraldo/Rossmann_Store_Sales/assets/58346288/9590b18a-d10a-4971-9878-97b0f7ac2be9)
 
